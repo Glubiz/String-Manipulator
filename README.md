@@ -1,5 +1,7 @@
 # RusticStr: A Rust String Manipulation Library
 
+**Note: This library is currently a work in progress. While it's already quite functional, expect more features to come and feel free to contribute!**
+
 RusticStr is a comprehensive string manipulation library for Rust, offering a wide range of functionalities that simplify and enhance string handling in Rust. This library aims to provide Rust developers with a powerful, intuitive, and idiomatic way to work with strings.
 
 ## Features
@@ -18,4 +20,3 @@ RusticStr provides the following string manipulation functions:
 - Encoding and Decoding: Encode and decode strings in various formats.
 - Levenshtein Distance: Calculate the Levenshtein distance between two strings.
 - String Metrics: Calculate various metrics about a string.
-
